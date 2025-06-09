@@ -1,19 +1,18 @@
-<!-- CABEÇALHO COM GIF FOFO E ESTRELAS -->
-
+<!-- CABEÇALHO FOFO E INSPIRADOR -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/starcatcoder/starcatcoder/main/banner.jpg" width="500" alt="Dois gatinhos olhando a lua"/>
 </p>
 
-<h1 align="center">Olá, eu sou a <strong>Julia</strong> 🐾</h1>
-<h3 align="center">Uma futura desenvolvedora Back-End com o coração nas estrelas e o olhar nos gatinhos! 🌌🐈‍⬛</h3>
+<h1 align="center">✨ Oi, eu sou a Julia! ✨</h1>
+<h3 align="center">Estudante de Ciência da Computação apaixonada por programação, estrelas, planetas e gatinhos pretos 🐈‍⬛🌌</h3>
 
 ---
 
-### 🧠 Sobre mim
+### 🌌 Sobre mim
 
 ```yaml
-🪐 Nome: Julia (aka starcatcoder)
-🎯 Objetivo: Conseguir um estágio como dev back-end
-💻 Tecnologias: Python • Java • Git • VS Code
-🌌 Estilo: Céu noturno, planetas, constelação de Sirius
-🐱 Mascotes favoritos: Gatos pretos com olhos curiosos
+🎓 Curso: Ciência da Computação — 2º semestre
+💻 Foco: Back-End com Java e Python
+🌱 Atualmente aprendendo: lógica, algoritmos, orientação a objetos
+🌙 Inspiração: o céu noturno, a constelação de Sirius e gatos curiosos
+🛸 Objetivo: Conseguir um estágio e crescer como dev back-end
