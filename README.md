@@ -1,51 +1,63 @@
-<h1 align="center">Olá, eu sou a Starcatcoder 🚀</h1>
+# 👋 Olá! Eu sou a Julia Souza
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=starcatcoder&color=ff69b4" alt="Visualizações de perfil"/>
-</p>
-
----
-
-## 💌 Você pode me encontrar em  
-<p align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href="https://youtube.com/SEU_CANAL"><img src="https://img.shields.io/badge/-YouTube-ff0000?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-</p>
+🎓 Estudante de **Ciência da Computação**  
+💻 Interessada em desenvolvimento de software e tecnologia  
+📍 São Paulo – Brasil  
 
 ---
 
-## 🪐 Sobre mim  
-- 💖 Amo **gatos**, **estrelas** e **códigos**.  
-- 🌙 Só crio código de **madrugada**.  
-- 🎧 Adoro ouvir música enquanto programo.  
-- 🧩 Amo o desafio de resolver problemas e criar soluções criativas.  
+## 🧠 Sobre mim
+
+Sou estudante do 2º módulo de Ciência da Computação e atualmente estou focada em
+desenvolver uma base sólida em programação, lógica e resolução de problemas.
+Tenho interesse em aprender na prática por meio de projetos e busco evoluir
+constantemente minhas habilidades técnicas e profissionais.
+
+Atualmente, utilizo o GitHub para organizar meus estudos, projetos acadêmicos
+e experiências práticas na área de computação.
 
 ---
 
-## 🛠️ Tecnologias que uso  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,github,vscode,linux,figma&perline=5" />
-</p>
+## 🛠️ Tecnologias e Ferramentas
+
+- Linguagens: **Python**, **JavaScript**, **C**
+- Desenvolvimento: **HTML**, **CSS**
+- Ferramentas: **Git**, **GitHub**
+- Conceitos: Lógica de Programação, Algoritmos, Estruturas de Dados (básico)
 
 ---
 
-## 📊 Minhas estatísticas no GitHub  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=starcatcoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starcatcoder&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+## 🚀 Projetos em Destaque
+
+📌 Alguns projetos que representam meu aprendizado até o momento:
+
+- **Sistema de Movimentação de Personagem (Godot)**  
+  Projeto desenvolvido para estudo de lógica de programação e eventos de teclado,
+  aplicando movimentação horizontal e vertical em jogos 2D.
+
+- **Projetos Acadêmicos em Programação**  
+  Repositórios contendo exercícios e pequenos sistemas desenvolvidos durante a
+  graduação, com foco em lógica, organização de código e boas práticas iniciais.
+
+*(Os projetos estão em constante atualização conforme avanço nos estudos.)*
 
 ---
 
-## 🏆 Troféus do GitHub  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=starcatcoder&theme=onedark&row=1&column=7" />
-</p>
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=starcatcoder&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starcatcoder&layout=compact&theme=dark)
 
 ---
 
-## 🐍 Jogo da Cobrinha  
-![snake gif](https://github.com/starcatcoder/starcatcoder/blob/output/github-contribution-grid-snake.svg)
+## 📫 Contato
+
+- 💼 LinkedIn: *(adicione aqui quando criar ou se sentir confortável)*
+- 📧 E-mail: *(opcional)*
+
+---
+
+⭐ Este perfil é utilizado para fins acadêmicos, aprendizado contínuo e construção
+de portfólio na área de tecnologia.
 
 
