@@ -1,63 +1,42 @@
-# 👋 Olá! Eu sou a Julia Souza
+<h1 align="center">🌟 Olá, eu sou a Julia Souza 🌟</h1>
 
-🎓 Estudante de **Ciência da Computação**  
-💻 Interessada em desenvolvimento de software e tecnologia  
-📍 São Paulo – Brasil  
+<p align="center">
+  🎓 Estudante de <strong>Ciência da Computação</strong> <br>
+  💻 Desenvolvedora <strong>Full Stack em formação</strong> <br>
+  🚀 Em constante aprendizado
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F7A1C4&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Aprendendo+Full+Stack;Python+|+Java+|+JavaScript;Sempre+evoluindo+✨"/>
+</p>
 
-## 🧠 Sobre mim
-
-Sou estudante do 2º módulo de Ciência da Computação e atualmente estou focada em
-desenvolver uma base sólida em programação, lógica e resolução de problemas.
-Tenho interesse em aprender na prática por meio de projetos e busco evoluir
-constantemente minhas habilidades técnicas e profissionais.
-
-Atualmente, utilizo o GitHub para organizar meus estudos, projetos acadêmicos
-e experiências práticas na área de computação.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-- Linguagens: **Python**, **JavaScript**, **C**
-- Desenvolvimento: **HTML**, **CSS**
-- Ferramentas: **Git**, **GitHub**
-- Conceitos: Lógica de Programação, Algoritmos, Estruturas de Dados (básico)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 Projetos em Destaque
+## ✨ Sobre mim
 
-📌 Alguns projetos que representam meu aprendizado até o momento:
-
-- **Sistema de Movimentação de Personagem (Godot)**  
-  Projeto desenvolvido para estudo de lógica de programação e eventos de teclado,
-  aplicando movimentação horizontal e vertical em jogos 2D.
-
-- **Projetos Acadêmicos em Programação**  
-  Repositórios contendo exercícios e pequenos sistemas desenvolvidos durante a
-  graduação, com foco em lógica, organização de código e boas práticas iniciais.
-
-*(Os projetos estão em constante atualização conforme avanço nos estudos.)*
+🌱 Sou iniciante na área de tecnologia e acredito muito no aprendizado através da prática.  
+🧠 Tenho foco em construir projetos **organizados, funcionais e bem documentados**.  
+🎯 Busco oportunidades de **estágio** e **posições júnior**, onde eu possa aprender, crescer e contribuir.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🧰 Tecnologias & Ferramentas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=starcatcoder&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starcatcoder&layout=compact&theme=dark)
-
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: *(adicione aqui quando criar ou se sentir confortável)*
-- 📧 E-mail: *(opcional)*
-
----
-
-⭐ Este perfil é utilizado para fins acadêmicos, aprendizado contínuo e construção
-de portfólio na área de tecnologia.
+```text
+🐍 Python (Flask)
+☕ Java (Spring Boot)
+🌐 JavaScript
+🎨 HTML5 & CSS3
+🗄️ SQL
+🔧 Git & GitHub
 
 
