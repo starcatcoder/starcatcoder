@@ -1,4 +1,8 @@
-✨ Olá, eu sou a Julia (starcatcoder) 🐱⭐
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBscTF3OHpycTF6bnQzMHpxcXVubnhjY3l1b2txdDBtMjJvbXN0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ss6rqSS8aRlgzOdFly/giphy.gif" width="300"/>
+</div>
+
+✨ Olá, eu sou a Julia Souza (starcatcoder) 🐱⭐
 
 🌙 Estudante de **Ciência da Computação**  
 💻 Focada em **Backend (Python / Flask)**  
@@ -12,14 +16,6 @@
 - JavaScript
 - HTML & CSS
 - Git & GitHub
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=starcatcoder&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starcatcoder&layout=compact&theme=tokyonight)
 
 ---
 
@@ -45,7 +41,6 @@ Projetos e experimentos voltados ao aprendizado em desenvolvimento de jogos.
 ---
 
 🌱 Sempre aprendendo, sempre evoluindo 🚀
-
 
 
 
