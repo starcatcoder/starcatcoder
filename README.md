@@ -15,9 +15,15 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=starcatcoder&show_icons=true&theme=catppuccin_mocha)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starcatcoder&layout=compact&theme=catppuccin_mocha)
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=starcatcoder&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starcatcoder&layout=compact&theme=tokyonight" />
+
+</div>
 
 ---
 
