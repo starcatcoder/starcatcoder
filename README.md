@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBscTF3OHpycTF6bnQzMHpxcXVubnhjY3l1b2txdDBtMjJvbXN0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ss6rqSS8aRlgzOdFly/giphy.gif" width="300"/>
 </div>
 
-✨ Olá, eu sou a Julia Souza (starcatcoder) 🐱⭐
+✨ Olá, eu sou a Julia (starcatcoder) 🐱⭐
 
 🌙 Estudante de **Ciência da Computação**  
 💻 Focada em **Backend (Python / Flask)**  
@@ -11,18 +11,17 @@
 ---
 
 ## 🧠 Tecnologias & Ferramentas
-- Python
-- Flask
-- JavaScript
-- HTML & CSS
-- Git & GitHub
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,git,github" />
+</p>
 
 ---
 
 ## 📌 Projetos em Destaque
 
 🔐 **User Authentication System**  
-Sistema de autenticação com login, criptografia de senha e organização backend.
+Sistema de autenticação com login, criptografia de senha e organização backend, focado em boas práticas.
 
 ✅ **Task Manager System**  
 Gerenciador de tarefas com operações CRUD e integração com banco de dados.
