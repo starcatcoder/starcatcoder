@@ -1,8 +1,8 @@
 ✨ Olá, eu sou a Julia (starcatcoder) 🐱⭐
 
-🌙 Estudante de Ciência da Computação  
-💻 Focada em Backend (Python / Flask)  
-🚀 Em busca de uma oportunidade de estágio em desenvolvimento de software  
+🌙 Estudante de **Ciência da Computação**  
+💻 Focada em **Backend (Python / Flask)**  
+🚀 Em busca de uma oportunidade de **estágio em desenvolvimento de software**
 
 ---
 
@@ -15,21 +15,16 @@
 
 ---
 
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=starcatcoder&show_icons=true&theme=tokyonight)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=starcatcoder&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starcatcoder&layout=compact&theme=tokyonight" />
-
-</div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starcatcoder&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📌 Projetos em Destaque
+
 🔐 **User Authentication System**  
 Sistema de autenticação com login, criptografia de senha e organização backend.
 
@@ -44,17 +39,12 @@ Projetos e experimentos voltados ao aprendizado em desenvolvimento de jogos.
 ---
 
 ## 🐍 Minhas contribuições
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/starcatcoder/snake/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/starcatcoder/snake/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/starcatcoder/snake/output/github-contribution-grid-snake.svg">
-</picture>
 
+![Snake animation](https://raw.githubusercontent.com/starcatcoder/snake/output/github-contribution-grid-snake.svg)
 
 ---
 
 🌱 Sempre aprendendo, sempre evoluindo 🚀
-
 
 
 
