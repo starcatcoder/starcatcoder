@@ -15,6 +15,7 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -24,6 +25,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starcatcoder&layout=compact&theme=tokyonight" />
 
 </div>
+
 
 ---
 
@@ -43,10 +45,11 @@ Projetos e experimentos voltados ao aprendizado em desenvolvimento de jogos.
 
 ## 🐍 Minhas contribuições
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/starcatcoder/snake/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/starcatcoder/snake/blob/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://github.com/starcatcoder/snake/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/starcatcoder/snake/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/starcatcoder/snake/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/starcatcoder/snake/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 ---
 
