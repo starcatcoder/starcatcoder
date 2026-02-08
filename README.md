@@ -54,7 +54,7 @@ Projetos e experimentos voltados ao aprendizado em desenvolvimento de jogos.
 💻 GitHub: https://github.com/starcatcoder  
 📩 Em breve: LinkedIn
 
-![Snake animation](https://raw.githubusercontent.com/starcatcoder/cobra/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/starcatcoder/snake/blob/output/github-contribution-grid-snake.svg)
 
 
 
