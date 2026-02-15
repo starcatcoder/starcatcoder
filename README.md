@@ -1,53 +1,74 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBscTF3OHpycTF6bnQzMHpxcXVubnhjY3l1b2txdDBtMjJvbXN0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ss6rqSS8aRlgzOdFly/giphy.gif" width="300"/>
-</div>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBscTF3OHpycTF6bnQzMHpxcXVubnhjY3l1b2txdDBtMjJvbXN0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ss6rqSS8aRlgzOdFly/giphy.gif" width="260"/>
+</p>
 
-<div align="center">
+<h1 align="center">✨ Julia (starcatcoder) 🐱⭐</h1>
 
-✨ Olá, eu sou a **Julia (starcatcoder)** 🐱⭐  
-
-🌙 Estudante de **Ciência da Computação**  
-💻 Focada em **Backend (Python / Flask)**  
-🚀 Em busca de uma oportunidade de **estágio em desenvolvimento de software**
+<p align="center">
+🌙 Estudante de <b>Ciência da Computação</b><br>
+💻 Desenvolvedora <b>Fullstack</b> com foco forte em <b>Backend</b><br>
+🚀 Buscando oportunidade de estágio em desenvolvimento de software
+</p>
 
 ---
 
 ## 🧠 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgresql,docker,js,html,css,git,github" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=starcatcoder&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 📌 Projetos em Destaque
 
-🔐 **User Authentication System**  
-Sistema de autenticação com login, criptografia de senha e organização backend, focado em boas práticas.
+🔐 **User Authentication API**  
+API REST com autenticação JWT, hash de senha (bcrypt), arquitetura em camadas e integração com PostgreSQL.
 
-✅ **Task Manager System**  
-Gerenciador de tarefas com operações CRUD e integração com banco de dados.
+📋 **Task Manager System**  
+Sistema CRUD com persistência relacional, validações estruturadas e organização backend.
 
-🎮 **Estudos com Godot**  
-Projetos e experimentos voltados ao aprendizado em desenvolvimento de jogos.
-
-👉 Confira os repositórios fixados logo abaixo 👇
+🎮 **Game Dev Studies (Godot)**  
+Projetos voltados ao aprendizado de lógica e mecânicas de jogos.
 
 ---
 
-## 🐍 Minhas contribuições
+## 🐍 Minhas Contribuições
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/starcatcoder/snake/output/github-contribution-grid-snake.svg" />
-</div>
+</p>
 
 ---
 
-🌱 Sempre aprendendo, sempre evoluindo 🚀
+## 🌱 Atualmente Estudando
 
-</div>
+- Arquitetura de APIs com FastAPI  
+- Modelagem relacional (PostgreSQL)  
+- Docker e ambientes isolados  
 
+---
 
+## 📫 Contato
+
+<p align="center">
+🔗 LinkedIn: www.linkedin.com/in/julianairsouza<br>
+📧 Email: starcatcoder@gmail.com
+</p>
+
+---
+
+<p align="center">
+Sempre aprendendo. Sempre evoluindo. 🚀
+</p>
 
 
 
